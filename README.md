@@ -1,4 +1,8 @@
-# Triceratops Browser
+<div align="center">
+  
+  # Triceratops Browser
+
+</div>
 
 <br>
 <br>
