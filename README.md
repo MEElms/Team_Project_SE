@@ -18,8 +18,11 @@
 <br>
 <br>
 
+<div align="center">
+  
 ## Welcome to the beginning of the Triceratops Browser!
 
+</div>
 <br>
 <br>
 
